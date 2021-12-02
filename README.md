@@ -1,0 +1,2 @@
+# Predicting-Price-of-Ikea-Products-with-Machine-Learning
+This time I created a project that aims to predict product prices from IKEA based on certain specifications of the product using machine learning. In this project, I used IKEA product data obtained by web scraping on the IKEA website (https://www.ikea.com/sa/en/cat/furniture-fu001/), which I then took from the website. Kaggle (https://www.kaggle.com/ahmedkallam/ikea-sa-furniture-web-scraping).
